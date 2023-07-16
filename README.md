@@ -28,23 +28,23 @@ This tool supports such commands as:
 
 - `f1` - shows quick up-to-date info about current season
 
-![Untitled](FormulaOne-CLI%201693b79f4c35403bb5545d7a84be3b3f/Untitled.png)
+![Untitled](images/f1.png)
 
 - `f1 ds` - shows current drivers standings
 
-![Untitled](FormulaOne-CLI%201693b79f4c35403bb5545d7a84be3b3f/Untitled%201.png)
+![Untitled](images/f1_ds.png)
 
 - `f1 cs` - shows current constructors standings
 
-![Untitled](FormulaOne-CLI%201693b79f4c35403bb5545d7a84be3b3f/Untitled%202.png)
+![Untitled](images/f1_cs.png)
 
 - `f1 schedule` - shows schedule for current season
 
-![Untitled](FormulaOne-CLI%201693b79f4c35403bb5545d7a84be3b3f/Untitled%203.png)
+![Untitled](images/f1_schedule.png)
 
 - `f1 history` - shows all time history of Formula 1
 
-![Untitled](FormulaOne-CLI%201693b79f4c35403bb5545d7a84be3b3f/Untitled%204.png)
+![Untitled](images/f1_history.png)
 
 .
 
